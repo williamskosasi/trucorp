@@ -20,7 +20,7 @@
         <td>ID</td>
         <td>Nama</td>
         <td>Alamat</td>
-        <td>Jabatan</td>
+        <td>Jabatan2</td>
     </tr>
     <?php
     while($data = $result->fetch_assoc()){
